@@ -1,0 +1,184 @@
+﻿source_file,WALL,층수,두께,수직철근,횡방향 띠철근 상세,수평철근
+center_img.png,AHW7,27F~28F,250,8-D10,-,D10@130
+center_img.png,AHW7,21F~26F,250,10-D10,-,D10@130
+center_img.png,AHW7,18F~20F,250,12-D10,-,D10@130
+center_img.png,AHW7,12F~17F,250,8-D13,-,D10@130
+center_img.png,AHW7,8F~11F,250,10-D13,-,D10@130
+center_img.png,AHW7,6F~7F,250,12-D13,-,D10@130
+center_img.png,AHW7,4F~5F,250,8-D16,-,D10@130
+center_img.png,AHW7,2F~3F,250,10-D16,횡방향 띠철근 상세,D10@130
+center_img.png,AHW7,1F,250,12-D16,횡방향 띠철근 상세,D10@130
+center_img.png,AHW7,PITF,250,12-D19,횡방향 띠철근 상세,D10@130
+center_img.png,AHW8,28F,250,4-D10,-,D10@270
+center_img.png,AHW8,21F~27F,250,8-D10,-,D10@110
+center_img.png,AHW8,20F,250,6-D10,-,D10@270
+center_img.png,AHW8,5F~19F,250,4-D10,-,D10@270
+center_img.png,AHW8,4F,250,6-D10,-,D10@270
+center_img.png,AHW8,3F,250,10-D10,-,D10@270
+center_img.png,AHW8,2F,250,10-D13,-,D10@270
+center_img.png,AHW8,1F,250,8-D22,횡방향 띠철근 상세,D10@270
+center_img.png,AHW8,PITF,250,8-D16,횡방향 띠철근 상세,D10@270
+center_img.png,AHW9,28F,250,6-D10,-,D10@270
+center_img.png,AHW9,27F,250,10-D10,-,D10@200
+center_img.png,AHW9,3F~26F,250,6-D10,-,D10@270
+center_img.png,AHW9,2F,250,12-D10,-,D10@270
+center_img.png,AHW9,1F,250,12-D10,-,D10@200
+center_img.png,AHW9,PITF,250,10-D10,-,D10@200
+center_img.png,AHW10,3F~28F,250,D10@450,-,D10@270
+center_img.png,AHW10,2F,250,D10@250,-,D10@270
+center_img.png,AHW10,1F,250,D13@150,-,D10@220
+center_img.png,AHW10,PITF,250,D10@150,-,D10@220
+center_img.png,AHW11,28F,250,8-D10,-,D10@170
+center_img.png,AHW11,27F,250,10-D10,-,D10@170
+center_img.png,AHW11,25F~26F,250,12-D10,-,D10@170
+center_img.png,AHW11,18F~24F,250,8-D10,-,D10@270
+center_img.png,AHW11,15F~17F,250,10-D10,-,D10@270
+center_img.png,AHW11,8F~14F,250,8-D10,-,D10@270
+center_img.png,AHW11,6F~7F,250,10-D10,-,D10@170
+center_img.png,AHW11,5F,250,12-D10,-,D10@170
+center_img.png,AHW11,4F,250,16-D10,-,D10@170
+center_img.png,AHW11,3F,250,12-D13,-,D10@170
+center_img.png,AHW11,2F,250,12-D16,-,D10@170
+center_img.png,AHW11,1F,250,12-D16,횡방향 띠철근 상세,D10@170
+center_img.png,AHW11,PITF,250,16-D16,횡방향 띠철근 상세,D10@170
+center_img.png,AHW12,28F,250,D10@450,-,D10@270
+center_img.png,AHW12,27F,250,D10@300,-,D10@270
+center_img.png,AHW12,26F,250,D10@450,-,D10@200
+center_img.png,AHW12,25F,250,D10@300,-,D10@200
+center_img.png,AHW12,13F~24F,250,D10@450,-,D10@270
+center_img.png,AHW12,7F~12F,250,D10@300,-,D10@270
+center_img.png,AHW12,6F,250,D10@250,-,D10@200
+center_img.png,AHW12,5F,250,D10@200,-,D10@200
+center_img.png,AHW12,4F,250,D13@150,-,D10@200
+center_img.png,AHW12,1F~3F,250,D10@100,-,D10@200
+center_img.png,AHW12,PITF,250,D10@150,-,D10@200
+center_img.png,BW1,27F~28F,250,D10@450,-,D10@350
+center_img.png,BW1,26F,250,D10@300,-,D10@350
+center_img.png,BW1,25F,250,D10@250,-,D10@290
+center_img.png,BW1,12F~24F,300,D10@400,-,D10@230
+center_img.png,BW1,B1F~11F,300,D10@150,-,D10@290
+center_img.png,BW1,B2F,300,D10@300,-,D10@290
+center_img.png,BW2,2F~25F,200,D10@450,-,D10@440
+center_img.png,BW2,1F,200,D10@100,-,D10@350
+center_img.png,BW2,PITF,200,D10@200,-,D10@350
+center_img.png,BW3,3F~25F,200,D10@450,-,D10@440
+center_img.png,BW3,2F,200,D10@250,-,D10@440
+center_img.png,BW3,1F,200,D10@150,-,D10@350
+center_img.png,BW3,PITF,200,D10@100,-,D10@350
+left_img.png,AW1,11F~28F,300,D10@400,-,D10@230
+left_img.png,AW1,1F~10F,300,D10@150,-,D10@110
+left_img.png,AW1,PITF,300,D13@150,-,D10@110
+left_img.png,AW1,B1F,300,D13@150,-,D10@110
+left_img.png,AW1,B2F,300,D10@300,-,D10@230
+left_img.png,AW1A,26F~28F,250,D10@450,-,D10@350
+left_img.png,AW1A,24F~25F,250,D10@150,-,D10@230
+left_img.png,AW1A,23F,300,D10@300,-,D10@290
+left_img.png,AW1A,12F~22F,300,D10@400,-,D10@290
+left_img.png,AW1A,B1F~11F,300,D10@150,-,D10@230
+left_img.png,AW1A,B2F,300,D10@450,-,D10@290
+left_img.png,AW2,6F~28F,200,D10@450,-,D10@440
+left_img.png,AW2,5F,200,D10@200,-,D10@440
+left_img.png,AW2,3F~4F,200,D13@150,-,D10@440
+left_img.png,AW2,1F~2F,200,D13@100,횡방향 띠철근 상세,D10@440
+left_img.png,AW2,PITF,200,D16@100,횡방향 띠철근 상세,D10@350
+left_img.png,AW3,5F~28F,200,D10@450,-,D10@440
+left_img.png,AW3,4F,200,D10@200,-,D10@440
+left_img.png,AW3,2F~3F,200,D13@150,-,D10@440
+left_img.png,AW3,1F,200,D13@100,횡방향 띠철근 상세,D10@440
+left_img.png,AW3,B1F~PITF,250,D10@100,-,D10@350
+left_img.png,AW3,B2F,250,D10@300,-,D10@350
+left_img.png,AW4,3F~28F,250,D10@450,-,D10@350
+left_img.png,AW4,2F,250,D10@150,-,D10@350
+left_img.png,AW4,1F,250,D13@150,-,D10@280
+left_img.png,AW4,PITF,250,D13@100,횡방향 띠철근 상세,D10@280
+left_img.png,AW5,28F,200,D10@250,-,D10@350
+left_img.png,AW5,1F~27F,200,D10@450,-,D10@440
+left_img.png,AW5,B2F~PITF,250,D10@450,-,D10@350
+left_img.png,AHW1,28F,250,6-D10,-,D10@270
+left_img.png,AHW1,26F~27F,250,8-D10,-,D10@270
+left_img.png,AHW1,24F~25F,250,10-D10,-,D10@270
+left_img.png,AHW1,20F~23F,250,12-D10,-,D10@270
+left_img.png,AHW1,15F~19F,250,14-D10,-,D10@270
+left_img.png,AHW1,14F,250,8-D13,-,D10@140
+left_img.png,AHW1,7F~13F,250,10-D13,-,D10@140
+left_img.png,AHW1,5F~6F,250,12-D13,-,D10@140
+left_img.png,AHW1,4F,250,14-D13,-,D10@140
+left_img.png,AHW1,3F,250,12-D16,횡방향 띠철근 상세,D10@140
+left_img.png,AHW1,B1F~2F,250,10-D16,횡방향 띠철근 상세,D10@270
+left_img.png,AHW1,B2F,250,14-D10,-,D10@270
+left_img.png,AHW2,6F~28F,250,8-D10,-,D10@120
+left_img.png,AHW2,2F~5F,250,6-D10,-,D10@270
+left_img.png,AHW2,1F,250,8-D10,-,D10@120
+left_img.png,AHW2,B2F~PITF,250,6-D10,-,D10@270
+left_img.png,AHW3,2F~28F,250,D10@450,-,D10@270
+left_img.png,AHW3,1F,250,D10@300,-,D10@250
+left_img.png,AHW3,B1F~PITF,250,D10@200,-,D10@250
+left_img.png,AHW3,B2F,250,D10@450,-,D10@270
+left_img.png,AHW4,2F~28F,250,D10@450,-,D10@270
+left_img.png,AHW4,1F,250,D10@300,-,D10@200
+left_img.png,AHW4,B2F~PITF,250,D10@450,-,D10@270
+left_img.png,AHW5,2F~28F,250,D10@450,-,D10@270
+left_img.png,AHW5,B1F~1F,250,D10@200,-,D10@270
+left_img.png,AHW5,B2F,250,D10@400,-,D10@270
+left_img.png,AHW6,28F,250,D10@300,-,D10@200
+left_img.png,AHW6,2F~27F,250,D10@450,-,D10@270
+left_img.png,AHW6,1F,250,D10@300,-,D10@200
+left_img.png,AHW6,B2F~PITF,250,D10@450,-,D10@270
+right_img.png,BW4,2F ~ 25F,250,D10@450,-,D10@280
+right_img.png,BW4,B1F ~ 1F,250,D10@200,횡방향 띠철근 상세,D10@280
+right_img.png,BW4,B2F,250,D10@450,횡방향 띠철근 상세,D10@350
+right_img.png,BW5,25F,200,D10@350,-,D10@440
+right_img.png,BW5,2F ~ 24F,200,D10@450,-,D10@350
+right_img.png,BW5,1F,200,D10@250,-,D10@350
+right_img.png,BW5,B1F ~ PITF,250,D10@200,-,D10@280
+right_img.png,BW5,B2F,250,D10@450,-,D10@350
+right_img.png,BW6,2F ~ 25F,200,D10@450,-,D10@440
+right_img.png,BW6,1F,200,D10@250,-,D10@350
+right_img.png,BW6,PITF,200,D10@250,-,D10@100
+right_img.png,BHW1,25F,250,D10@250,-,D10@270
+right_img.png,BHW1,5F ~ 24F,250,D10@450,-,D10@270
+right_img.png,BHW1,4F,250,D10@400,-,D10@270
+right_img.png,BHW1,3F,250,D10@200,-,D10@270
+right_img.png,BHW1,2F,250,D10@150,-,D10@270
+right_img.png,BHW1,PITF ~ 1F,250,D13@150,-,D10@270
+right_img.png,BHW2,3F ~ 25F,250,D10@450,-,D10@270
+right_img.png,BHW2,2F,250,D10@200,-,D10@270
+right_img.png,BHW2,1F,250,D13@150,-,D10@270
+right_img.png,BHW2,PITF,250,D10@100,-,D10@270
+right_img.png,BHW3,6F ~ 25F,250,D10@450,-,D10@270
+right_img.png,BHW3,2F ~ 5F,250,D10@200,-,D10@270
+right_img.png,BHW3,1F,250,D13@150,-,D10@270
+right_img.png,BHW3,PITF,250,D13@150,-,D10@120
+right_img.png,BHW4,2F ~ 25F,250,D10@450,횡방향 띠철근 상세,D10@270
+right_img.png,BHW4,1F,250,D13@100,횡방향 띠철근 상세,D10@260
+right_img.png,BHW4,PITF,250,D13@100,횡방향 띠철근 상세,D10@150
+right_img.png,BHW5,3F ~ 25F,250,D10@450,-,D10@270
+right_img.png,BHW5,1F ~ 2F,250,D10@350,-,D10@210
+right_img.png,BHW5,PITF,250,D10@200,-,D10@200
+right_img.png,BHW5A,2F ~ 25F,150,D10@450,-,D10@450
+right_img.png,BHW5A,1F,150,D10@350,-,D10@400
+right_img.png,BHW5A,PITF,150,D10@350,-,D10@350
+right_img.png,BHW6,25F,250,8-D10,-,D10@110
+right_img.png,BHW6,4F ~ 24F,250,6-D10,-,D10@270
+right_img.png,BHW6,3F,250,10-D10,-,D10@270
+right_img.png,BHW6,2F,250,10-D13,-,D10@270
+right_img.png,BHW6,1F,250,10-D22,횡방향 띠철근 상세,D10@270
+right_img.png,BHW6,PITF,250,8-D19,횡방향 띠철근 상세,D10@270
+right_img.png,BHW7,B1F ~ 25F,250,6-D10,-,D10@270
+right_img.png,BHW7,B2F,250,10-D10,-,D10@270
+right_img.png,BHW8,B2F ~ 25F,250,D10@450,-,D10@270
+right_img.png,BHW9,18F ~ 28F,250,D10@450,-,D10@270
+right_img.png,BHW9,16F ~ 17F,250,D10@400,-,D10@270
+right_img.png,BHW9,15F,250,D10@350,-,D10@270
+right_img.png,BHW9,13F ~ 14F,250,D10@400,-,D10@270
+right_img.png,BHW9,7F ~ 12F,250,D10@450,-,D10@270
+right_img.png,BHW9,6F,250,D10@350,-,D10@270
+right_img.png,BHW9,5F,250,D10@250,-,D10@270
+right_img.png,BHW9,4F,250,D10@200,-,D10@270
+right_img.png,BHW9,3F,250,D10@150,-,D10@270
+right_img.png,BHW9,2F,250,D13@150,-,D10@270
+right_img.png,BHW9,B1F ~ 1F,250,D10@100,-,D10@270
+right_img.png,BHW9,B2F,250,D10@400,-,D10@270
+right_img.png,BHW10,2F ~ 25F,250,D10@450,-,D10@270
+right_img.png,BHW10,1F,250,D13@150,-,D10@220
+right_img.png,BHW10,PITF,250,D13@150,-,D10@220
